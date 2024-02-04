@@ -12,29 +12,25 @@ namespace HelloGeneric
         static void Main(string[] args)
         {
             Apple apple = new Apple() { Color = "red" };
-            AppleBox box = new AppleBox() { Cargo = apple };
-            Console.WriteLine(box.Cargo.Color);
-
             Book book = new Book() { Name = "New Book" };
-            BookBox bookBox = new BookBox() { Cargo = book };
-            Console.WriteLine(bookBox.Cargo.Name);
+            ///改成用一个盒子装也有问题，这样容易导致类成员变量膨胀，当我们只调用一个成员，
+            ///如果有几千个成员，那么就会导致成员膨胀情况
+            Box box1 = new Box() { Apple = apple };
+            Box box2 = new Box() { Book = book };
         }
 
         class Apple
         {
             public string Color { set; get; }
         }
-        class AppleBox
-        {
-            public Apple Cargo { get; set; }
-        }
         class Book
         {
             public string Name { get; set; }
         }
-        class BookBox
+        class Box
         {
-            public Book Cargo { get; set; }
+            public Apple Apple { get; set; }
+            public Book Book { get; set; }
         }
     }
 }
