@@ -6,7 +6,7 @@ namespace HelloGeneric2
     {
         static void Main(string[] args)
         {
-            Student<int> student = new Student<int>();
+            Student student = new Student();
             student.Id = 101;
             student.Name = "Tony";
         }
@@ -15,9 +15,11 @@ namespace HelloGeneric2
     {
         TId Id { get; set; }
     }
-    class Student<TId>:IUnique<TId>
+
+    //在基类中给泛型接口加了类型，后续创建实例就不用加了
+    class Student:IUnique<int>
     {
-        public TId Id { get; set; }
+        public int Id { get; set; }
         public string Name { get; set; }
 
     }
