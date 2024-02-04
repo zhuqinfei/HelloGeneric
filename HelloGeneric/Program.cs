@@ -21,7 +21,7 @@ namespace HelloGeneric
         class Apple
         {
             public string Color { set; get; }
-        }
+        } 
         class Book
         {
             public string Name { get; set; }
