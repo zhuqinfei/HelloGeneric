@@ -1,0 +1,12 @@
+D:\c#练习项目\HelloGeneric\HelloGeneric\bin\Debug\netcoreapp3.0\HelloGeneric.exe
+D:\c#练习项目\HelloGeneric\HelloGeneric\bin\Debug\netcoreapp3.0\HelloGeneric.deps.json
+D:\c#练习项目\HelloGeneric\HelloGeneric\bin\Debug\netcoreapp3.0\HelloGeneric.runtimeconfig.json
+D:\c#练习项目\HelloGeneric\HelloGeneric\bin\Debug\netcoreapp3.0\HelloGeneric.runtimeconfig.dev.json
+D:\c#练习项目\HelloGeneric\HelloGeneric\bin\Debug\netcoreapp3.0\HelloGeneric.dll
+D:\c#练习项目\HelloGeneric\HelloGeneric\bin\Debug\netcoreapp3.0\HelloGeneric.pdb
+D:\c#练习项目\HelloGeneric\HelloGeneric\obj\Debug\netcoreapp3.0\HelloGeneric.csproj.AssemblyReference.cache
+D:\c#练习项目\HelloGeneric\HelloGeneric\obj\Debug\netcoreapp3.0\HelloGeneric.csproj.CoreCompileInputs.cache
+D:\c#练习项目\HelloGeneric\HelloGeneric\obj\Debug\netcoreapp3.0\HelloGeneric.AssemblyInfoInputs.cache
+D:\c#练习项目\HelloGeneric\HelloGeneric\obj\Debug\netcoreapp3.0\HelloGeneric.AssemblyInfo.cs
+D:\c#练习项目\HelloGeneric\HelloGeneric\obj\Debug\netcoreapp3.0\HelloGeneric.dll
+D:\c#练习项目\HelloGeneric\HelloGeneric\obj\Debug\netcoreapp3.0\HelloGeneric.pdb
