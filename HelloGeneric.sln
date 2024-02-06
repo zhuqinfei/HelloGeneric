@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.34114.132
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloGeneric", "HelloGeneric\HelloGeneric.csproj", "{C1B15E71-2670-4094-A568-70B4E280C41E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloGeneric", "HelloGeneric\HelloGeneric.csproj", "{C1B15E71-2670-4094-A568-70B4E280C41E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloGeneric2", "HelloGeneric2\HelloGeneric2.csproj", "{27BF4A58-0127-4CBE-9BCB-F1FB47B6D677}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloGeneric2", "HelloGeneric2\HelloGeneric2.csproj", "{27BF4A58-0127-4CBE-9BCB-F1FB47B6D677}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloGeneric3", "HelloGeneric3\HelloGeneric3.csproj", "{283730CA-264A-4AAF-A6D0-1142D21E20D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{27BF4A58-0127-4CBE-9BCB-F1FB47B6D677}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27BF4A58-0127-4CBE-9BCB-F1FB47B6D677}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27BF4A58-0127-4CBE-9BCB-F1FB47B6D677}.Release|Any CPU.Build.0 = Release|Any CPU
+		{283730CA-264A-4AAF-A6D0-1142D21E20D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{283730CA-264A-4AAF-A6D0-1142D21E20D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{283730CA-264A-4AAF-A6D0-1142D21E20D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{283730CA-264A-4AAF-A6D0-1142D21E20D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
