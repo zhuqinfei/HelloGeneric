@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloGeneric3", "HelloGener
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloGeneric4", "HelloGeneric4\HelloGeneric4.csproj", "{187BDD75-D3B2-4096-9284-105C973093A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloGeneric5", "HelloGeneric5\HelloGeneric5.csproj", "{0D9ABC6F-EC28-451F-BD5A-01BEF1244D36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{187BDD75-D3B2-4096-9284-105C973093A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{187BDD75-D3B2-4096-9284-105C973093A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{187BDD75-D3B2-4096-9284-105C973093A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D9ABC6F-EC28-451F-BD5A-01BEF1244D36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D9ABC6F-EC28-451F-BD5A-01BEF1244D36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D9ABC6F-EC28-451F-BD5A-01BEF1244D36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D9ABC6F-EC28-451F-BD5A-01BEF1244D36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
